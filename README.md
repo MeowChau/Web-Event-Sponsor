@@ -1,4 +1,4 @@
-# Web-Event-Sponsor
+# [TERM PROJECT] WEB EVENT SPONSOR
 ## Introduction
 This is a front-end web project developed as a major assignment for "Programming with Scripting languages" at "Posts and Telecommunications Institute of Technology". The project involves programming with scripting languages, specifically using HTML, CSS, LocalStorage and JavaScript.
 ## Prerequisites
